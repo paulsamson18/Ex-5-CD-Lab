@@ -2,7 +2,7 @@
 RECOGNITION OF THE GRAMMAR(anb where n>=10) USING YACC
 # Name:Sanjai S
 # Reg No:212223230186
-# Date:24-10-24
+# Date:03-05-25
 # Aim:
 To write a YACC program to recognize the grammar anb where n>=10.
 # ALGORITHM
